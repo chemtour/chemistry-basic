@@ -26,8 +26,11 @@
 
 
 ## katex示例
-详细的语法浏览[katex文档](https://katex.org/docs/supported.html)
-源文件github [mdbook-katex库](https://github.com/lzanini/mdbook-katex?tab=readme-ov-file)
+
+>详细的语法浏览[katex文档](https://katex.org/docs/supported.html)
+
+>源文件github [mdbook-katex库](https://github.com/lzanini/mdbook-katex?tab=readme-ov-file)
+
 Here is an inline example, $ \pi(\theta) $,
 
 an equation,
