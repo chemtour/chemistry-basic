@@ -1,7 +1,6 @@
 # 目录
 1.  [封面&授权](./README.md)
-2.  [介绍](./00-introduction.md)
-3.  [化学基础](./01-list-rubbertech-shanghai-202409.md)
+2.  [化学基础](./01-list-rubbertech-shanghai-202409.md)
     1.  [原子结构与元素性质](chemistry-basic/01%20原子结构与元素性质/01%20核外电子排布方式.md)
         1.  [核外电子排布方式](chemistry-basic/01%20原子结构与元素性质/01%20核外电子排布方式.md)
         2.  [构造原理、泡利原理、洪特规则](chemistry-basic/01%20原子结构与元素性质/02%20构造原理、泡利原理、洪特规则.md)
